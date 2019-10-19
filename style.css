@@ -1,3 +1,50 @@
-html{
-    font-size: 100%;
+html {
+  font-size: 100%;
 }
+/* css rule */
+/* selector */
+/* declaration block */
+/* declaration */
+/* property */
+/* value */
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: yellow;
+}
+h4 {
+  color: violet;
+}
+h5 {
+  color: pink;
+}
+h6 {
+  color: purple;
+}
+body {
+  color: black;
+}
+
+#heading {
+  color: burlywood;
+}
+#subheading {
+  color: darkblue;
+}
+
+.heading {
+  color: gold;
+}
+.subheading {
+  color: crimson;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* inheritance */
